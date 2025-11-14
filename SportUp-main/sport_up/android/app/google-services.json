@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "836579737794",
+    "project_id": "sportup-948f8",
+    "storage_bucket": "sportup-948f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836579737794:android:2d45d00bc90ad16d213b5b",
+        "android_client_info": {
+          "package_name": "com.example.sport_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836579737794-94gnct50q1qg5ga08fr3j4mlsj472m21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgNtV_V_DdoPXSMA8C-GtgZU0BXF7OXAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836579737794-94gnct50q1qg5ga08fr3j4mlsj472m21.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836579737794-n90g35md1pqnqcmj2aaf21nispe38i15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportUp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
